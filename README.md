@@ -1,4 +1,4 @@
-# amy_bot
+# Amy The Chatbot 
 Amy Bot: MLSA Ambassador Project 🤖
 
 Welcome to the repository of "Amy" - the pinnacle of conversational AI, crafted exclusively for the MLSA community.
