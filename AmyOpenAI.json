@@ -1,0 +1,133 @@
+{
+    "id": "/subscriptions/710b9a4f-7c2a-4fd1-84d4-e58d6279c396/resourceGroups/MLSA/providers/Microsoft.CognitiveServices/accounts/finalamybot",
+    "name": "finalamybot",
+    "type": "Microsoft.CognitiveServices/accounts",
+    "etag": "\"4700b3d9-0000-0900-0000-6552feb60000\"",
+    "location": "canadaeast",
+    "sku": {
+        "name": "S0"
+    },
+    "kind": "OpenAI",
+    "tags": {},
+    "properties": {
+        "endpoint": "https://finalamybot.openai.azure.com/",
+        "internalId": "7ae1f9195ce344e8ac54a3761272cb99",
+        "dateCreated": "2023-11-12T04:55:35.4678565Z",
+        "callRateLimit": {
+            "rules": [
+                {
+                    "key": "openai.dalle.post",
+                    "renewalPeriod": 1,
+                    "count": 30,
+                    "matchPatterns": [
+                        {
+                            "path": "dalle/*",
+                            "method": "POST"
+                        },
+                        {
+                            "path": "openai/images/*",
+                            "method": "POST"
+                        }
+                    ]
+                },
+                {
+                    "key": "openai.dalle.other",
+                    "renewalPeriod": 1,
+                    "count": 30,
+                    "matchPatterns": [
+                        {
+                            "path": "dalle/*",
+                            "method": "*"
+                        },
+                        {
+                            "path": "openai/operations/images/*",
+                            "method": "*"
+                        }
+                    ]
+                },
+                {
+                    "key": "openai",
+                    "renewalPeriod": 1,
+                    "count": 30,
+                    "matchPatterns": [
+                        {
+                            "path": "openai/*",
+                            "method": "*"
+                        }
+                    ]
+                },
+                {
+                    "key": "default",
+                    "renewalPeriod": 1,
+                    "count": 30,
+                    "matchPatterns": [
+                        {
+                            "path": "*",
+                            "method": "*"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isMigrated": false,
+        "customSubDomainName": "finalamybot",
+        "networkAcls": {
+            "defaultAction": "Allow",
+            "virtualNetworkRules": [],
+            "ipRules": []
+        },
+        "privateEndpointConnections": [],
+        "publicNetworkAccess": "Enabled",
+        "capabilities": [
+            {
+                "name": "VirtualNetworks"
+            },
+            {
+                "name": "CustomerManagedKey"
+            },
+            {
+                "name": "MaxFineTuneCount",
+                "value": "100"
+            },
+            {
+                "name": "MaxRunningFineTuneCount",
+                "value": "1"
+            },
+            {
+                "name": "MaxUserFileCount",
+                "value": "50"
+            },
+            {
+                "name": "MaxTrainingFileSize",
+                "value": "100000000"
+            },
+            {
+                "name": "MaxUserFileImportDurationInHours",
+                "value": "1"
+            },
+            {
+                "name": "MaxFineTuneJobDurationInHours",
+                "value": "720"
+            },
+            {
+                "name": "TrustedServices",
+                "value": "Microsoft.CognitiveServices,Microsoft.MachineLearningServices,Microsoft.Search"
+            }
+        ],
+        "endpoints": {
+            "OpenAI Language Model Instance API": "https://finalamybot.openai.azure.com/",
+            "OpenAI Dall-E API": "https://finalamybot.openai.azure.com/",
+            "OpenAI Whisper API": "https://finalamybot.openai.azure.com/",
+            "OpenAI Model Scaleset API": "https://finalamybot.openai.azure.com/"
+        },
+        "provisioningState": "Succeeded"
+    },
+    "systemData": {
+        "createdBy": "Sreya.EP@studentambassadors.com",
+        "createdByType": "User",
+        "createdAt": "2023-11-12T04:55:34.6939434Z",
+        "lastModifiedBy": "Sreya.EP@studentambassadors.com",
+        "lastModifiedByType": "User",
+        "lastModifiedAt": "2023-11-12T04:55:34.6939434Z"
+    }
+}
