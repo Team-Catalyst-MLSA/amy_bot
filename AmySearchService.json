@@ -1,0 +1,27 @@
+{
+    "id": "/subscriptions/710b9a4f-7c2a-4fd1-84d4-e58d6279c396/resourceGroups/MLSA/providers/Microsoft.Search/searchServices/mlsa",
+    "name": "mlsa",
+    "type": "Microsoft.Search/searchServices",
+    "location": "Canada East",
+    "tags": {
+        "ProjectType": "aoai-your-data-service"
+    },
+    "properties": {
+        "replicaCount": 1,
+        "partitionCount": 1,
+        "status": "running",
+        "statusDetails": "",
+        "provisioningState": "succeeded",
+        "hostingMode": "Default",
+        "publicNetworkAccess": "Enabled",
+        "networkRuleSet": {
+            "ipRules": [],
+            "bypass": "None"
+        },
+        "privateEndpointConnections": [],
+        "sharedPrivateLinkResources": []
+    },
+    "sku": {
+        "name": "standard"
+    }
+}
