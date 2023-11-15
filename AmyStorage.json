@@ -1,0 +1,73 @@
+{
+    "sku": {
+        "name": "Standard_RAGRS",
+        "tier": "Standard"
+    },
+    "kind": "StorageV2",
+    "id": "/subscriptions/710b9a4f-7c2a-4fd1-84d4-e58d6279c396/resourceGroups/MLSA/providers/Microsoft.Storage/storageAccounts/amybotfinal",
+    "name": "amybotfinal",
+    "type": "Microsoft.Storage/storageAccounts",
+    "location": "canadaeast",
+    "tags": {
+        "ProjectType": "aoai-your-data-service"
+    },
+    "properties": {
+        "dnsEndpointType": "Standard",
+        "defaultToOAuthAuthentication": false,
+        "publicNetworkAccess": "Enabled",
+        "keyCreationTime": {
+            "key1": "2023-11-12T05:07:33.5751664Z",
+            "key2": "2023-11-12T05:07:33.5751664Z"
+        },
+        "allowCrossTenantReplication": false,
+        "privateEndpointConnections": [],
+        "minimumTlsVersion": "TLS1_2",
+        "allowBlobPublicAccess": false,
+        "allowSharedKeyAccess": true,
+        "networkAcls": {
+            "bypass": "AzureServices",
+            "virtualNetworkRules": [],
+            "ipRules": [],
+            "defaultAction": "Allow"
+        },
+        "supportsHttpsTrafficOnly": true,
+        "encryption": {
+            "requireInfrastructureEncryption": false,
+            "services": {
+                "file": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2023-11-12T05:07:33.5907919Z"
+                },
+                "blob": {
+                    "keyType": "Account",
+                    "enabled": true,
+                    "lastEnabledTime": "2023-11-12T05:07:33.5907919Z"
+                }
+            },
+            "keySource": "Microsoft.Storage"
+        },
+        "accessTier": "Hot",
+        "provisioningState": "Succeeded",
+        "creationTime": "2023-11-12T05:07:33.5283630Z",
+        "primaryEndpoints": {
+            "dfs": "https://amybotfinal.dfs.core.windows.net/",
+            "web": "https://amybotfinal.z27.web.core.windows.net/",
+            "blob": "https://amybotfinal.blob.core.windows.net/",
+            "queue": "https://amybotfinal.queue.core.windows.net/",
+            "table": "https://amybotfinal.table.core.windows.net/",
+            "file": "https://amybotfinal.file.core.windows.net/"
+        },
+        "primaryLocation": "canadaeast",
+        "statusOfPrimary": "available",
+        "secondaryLocation": "canadacentral",
+        "statusOfSecondary": "available",
+        "secondaryEndpoints": {
+            "dfs": "https://amybotfinal-secondary.dfs.core.windows.net/",
+            "web": "https://amybotfinal-secondary.z27.web.core.windows.net/",
+            "blob": "https://amybotfinal-secondary.blob.core.windows.net/",
+            "queue": "https://amybotfinal-secondary.queue.core.windows.net/",
+            "table": "https://amybotfinal-secondary.table.core.windows.net/"
+        }
+    }
+}
