@@ -17,6 +17,8 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 - **Platform**: Power Virtual Automate (PVA)
 - **Other Azure resouces**:Search Service,Storage account
 
+- ## Dataflow Diagram
+
 ## Features
 
 - **Generative Answers**:Amy can find and present information from sources without creation of topics.
