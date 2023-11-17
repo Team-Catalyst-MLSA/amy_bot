@@ -19,7 +19,7 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 
 - ## Dataflow Diagram
 
- ![amy 4](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/5d821b9c-cdac-4bf2-a2bf-a6f7224f455f)
+  ![amy 4](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/5d821b9c-cdac-4bf2-a2bf-a6f7224f455f)
 
 
 ## Features
