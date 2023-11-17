@@ -1,0 +1,72 @@
+# AMY Chatbot User Manual :
+
+## Table of Contents:
+
+## Introduction
+## Features
+  -Alpha Readvancement Form
+  -Certificate Generator Link
+  -CloudSkills Challenge Creation Form
+  -Technical Onboarding Form
+  -Microsoft Student Trainer Form
+  -Event Incentives Form
+  -Learn Tutorial Publishing Form
+  -Email Escalation to SA-Coordinator and SA-Help
+  -Microsoft Teams Escalation to SA-Coordinator
+
+
+## 1. Introduction
+
+AMY is your practical, fact-minded, and highly reliable chatbot assistant. She embodies pragmatism, down-to-earth functionality, and possesses in-depth knowledge about the program. While AMY may sometimes come across as quiet and reserved, rest assured, she's exceptionally friendly and always ready to assist. Behind her practical demeanor, AMY also showcases cleverness and a fabulous sense of humor, making interactions not only informative but also enjoyable.
+
+## 2. Features
+
+- 2.1 Alpha Readvancement Form
+If you need the Alpha Readvancement Form, simply ask AMY, and it will provide you with the form link:
+      User: "AMY, I need the Alpha Readvancement Form."
+      AMY: [Alpha Readvancement Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b7S6-fPrKLhJhJ44JKNaDPNUQ1VVOTZGWjhIQUNSTEtRNTQxRThZVVU3WCQlQCN0PWcu)
+ 
+- 2.2 Certificate Generator Link
+For the Certificate Generator Link, AMY recommends the GitHub repository for documentation:
+      User: "AMY, I need the Certificate Generator Link."
+      AMY: [Certificate Generator GitHub Repo](https://github.com/rv2442/MLSA-Certificate-Generator_Email-Sender)
+
+- 2.3 CloudSkills Challenge Creation Form
+To access the CloudSkills Challenge Creation Form, ask AMY, and it will provide you with the form link:
+      User: "AMY, where can I find the CloudSkills Challenge Creation Form?"
+      AMY: [CloudSkills Challenge Creation Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b7S6-fPrKLhJhJ44JKNaDPNUNUM3VjQ0NDdIMTRJQU5KVkMwSjFSVVhKRCQlQCN0PWcu)
+
+- 2.4 Technical Onboarding Form
+For the Technical Onboarding Form, ask AMY, and it will provide you with the form link:
+      User: "AMY, I need the Technical Onboarding Form."
+      AMY: [Technical Onboarding Form Link](https://forms.office.com/Pages/ResponsePage.aspx?id=oBzDhDusrk6tEVGdgCM-b7S6-fPrKLhJhJ44JKNaDPNUNDRBOFpEMkI3SjJOUzE4RjBXWTQ4SzdGQyQlQCN0PWcu)
+
+- 2.5 Microsoft Student Trainer Form
+If you require the Microsoft Student Trainer Form, ask AMY, and it will provide you with the form link:
+
+       User: "AMY, where can I find the Microsoft Student Trainer Form?"
+       AMY: [Microsoft Student Trainer Form Link](https://forms.office.com/pages/responsepage.aspx?id=oBzDhDusrk6tEVGdgCM-b7S6-fPrKLhJhJ44JKNaDPNUODZCVThBWEw4U0VOMVkyVUpCRDZZSkZGVCQlQCN0PWcu)
+
+- 2.6 Event Incentives Form
+For the Event Incentives Form, ask AMY, and it will provide you with the form link:
+      User: "AMY, I need the Event Incentives Form."
+      AMY: [Event Incentives Form Link](https://forms.office.com/pages/responsepage.aspx?id=oBzDhDusrk6tEVGdgCM-b7S6-fPrKLhJhJ44JKNaDPNUODZCVThBWEw4U0VOMVkyVUpCRDZZSkZGVCQlQCN0PWcu)
+
+- 2.7 Learn Tutorial Publishing Form
+If you need the Learn Tutorial Publishing Form, ask AMY, and it will provide you with the form link:
+
+      User: "AMY, where can I find the Learn Tutorial Publishing Form?"
+      AMY: [Learn Tutorial Publishing Form Link](https://forms.office.com/pages/responsepage.aspx?id=v4j5cvG
+
+- 2.8 Email Escalation to SA-Coordinator and SA-Help
+  AMY can help you send an email directly to the SA-Coordinator and SA-Help. It will prompt you for the subject and query before escalating the email.
+
+- 2.9 Microsoft Teams Escalation to SA-Coordinator
+   AMY can also escalate issues to the SA-Coordinator via Microsoft Teams. It will ask for your query before escalating the problem on Teams.
+
+Feel free to explore AMY's features and make your experience as a Student Ambassador more efficient and enjoyable! If you encounter any issues or have suggestions for improvement, please provide feedback to help enhance AMY's capabilities.
+
+
+
+
+
