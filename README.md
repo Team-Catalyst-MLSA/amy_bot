@@ -1,6 +1,6 @@
 # Amy The Chatbot 
 
-                ![amyfinal](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/117088162/0dfdc5dc-a1cd-466d-9cf2-db52f569c3ad)
+                
 Amy Bot: MLSA Ambassador Project 🤖
 
 Welcome to the repository of "Amy" - the pinnacle of conversational AI, crafted exclusively for the MLSA community.
