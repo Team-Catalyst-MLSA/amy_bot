@@ -1,4 +1,4 @@
-
+                                   ![amyfinal](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/117088162/0dfdc5dc-a1cd-466d-9cf2-db52f569c3ad)
 # Amy The Chatbot 
 Amy Bot: MLSA Ambassador Project 🤖
 
