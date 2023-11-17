@@ -20,13 +20,8 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 
 ## Getting Started
 
-" "
 
-## Contributions
+## About Us
 
-We welcome contributions and feedback to make Amy even better! Please check our `CONTRIBUTING.md` for guidelines.
-
-## Abou Us
-
-We are 'Catalyst', a team of Microsoft Learn Student Ambassadors. Our team comprises four members: Ricky Rodrigues, Sayanti Chowdhury, Sreya EP, and Prathyush NM. This project was created for submission to the MLSA Project September 2023 cohort.
+We are 'Catalyst', a team of Microsoft Learn Student Ambassadors. Our team comprises four members: Ricky Rodrigues, Sreya EP, Sayanti Chowdhury and Prathyush NM. This project was created for submission to the MLSA Project September 2023 cohort.
 
