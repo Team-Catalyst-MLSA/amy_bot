@@ -26,6 +26,7 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 
 - **Generative Answers**:Amy can find and present information from sources without creation of topics.
 - **GPT-4**:Able to generate more accurate and coherent responses.
+- **User Authentication**:Accessible only to MLSA community hence user privacy and security is ensured
 - **Deep Integration**: Trained with data in Student Ambassador Handbook.
 - **Intelligent Conversations**: Rigorous training sessions ensure Amy's exceptional intelligence and adeptness at understanding intricate queries.
 - **Seamless Experience**: Designed and deployed using PVA for smooth user interaction.
