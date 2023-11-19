@@ -42,6 +42,12 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 Demo To demonstrate Amy’s capabilities, we have prepared some screenshots of her responses to different types of queries. You can see how Amy handles normal 
 queries, escalation to mail, escalation within teams, and searching for forms.
 
+## Please access the bot from this link.
+
+https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=e79e25f1-8ec1-4d3b-8c16-4651b6b00340&environment=Default-84c31ca0-ac3b-4eae-ad11-519d80233e6f
+
+** Note: pls mail Sreya.EP@studentambassadors.com for access , as the the access to public is restricted due to a lack of az credits as the both quicly uses all the credits available make it more formal.
+
 ## Normal Queries Amy can answer most of the common questions that Student Ambassadors may have about the program, such as benefits, requirements, levels, badges, etc. She can also provide links to relevant resources, such as the Student Ambassador Handbook, the Learn platform, the GitHub repository, etc.
 
 ![WhatsApp Image 2023-11-19 at 23 16 12](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/199c405e-def8-4e83-a120-4ce7f4f160cf)
