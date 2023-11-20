@@ -63,14 +63,12 @@ https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateI
 
 ![WhatsApp Image 2023-11-19 at 23 54 49](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/c4c7dcc3-8ed9-4bfb-9370-47fa4d3fa280)
 
-**Escalation within Teams Another way to escalate an issue is to use the Teams channel, where Student Ambassadors can interact with each other and the program team. 
-Amy can directly message your issue to the SA Coordinator or SA Help within Teams. She will ask for the user’s consent and confirmation before sending the message**
+**Escalation within Teams Another way to escalate an issue is to use the Teams channel, where Student Ambassadors can interact with each other and the program team. Amy can directly message your issue to the SA Coordinator or SA Help within Teams. She will ask for the user’s consent and confirmation before sending the message**
 
 ![WhatsApp Image 2023-11-19 at 23 55 10](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/5a25bd46-ac0a-4653-974d-d63aa4249885)
 ![WhatsApp Image 2023-11-19 at 23 58 02](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/76f185a5-1913-4b97-870b-4a250e99a9bb)
 
-**Searching for Forms Student Ambassadors may need to fill out various forms for different purposes, such as event submission, incentive request, feedback, etc**
-Amy can help the user find the right form and provide the link to it. She can also explain the purpose and the process of filling out the form.
+**Searching for Forms Student Ambassadors may need to fill out various forms for different purposes, such as event submission, incentive request, feedback, etc. Amy can help the user find the right form and provide the link to it. She can also explain the purpose and the process of filling out the form**
 
 ![WhatsApp Image 2023-11-20 at 00 06 45](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/6665c2aa-8020-4467-a19f-66ad6c5fcb6a)
 
