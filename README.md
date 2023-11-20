@@ -1,4 +1,4 @@
-# `#1A0066`Amy The Chatbot 
+# Amy The Chatbot 
 
   
 
