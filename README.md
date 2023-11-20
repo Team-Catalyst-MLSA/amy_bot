@@ -48,7 +48,10 @@ https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateI
 
 ** Note: pls mail Sreya.EP@studentambassadors.com for access , as the the access to public is restricted due to a lack of az credits as the both quicly uses all the credits available make it more formal.
 
-## Normal Queries Amy can answer most of the common questions that Student Ambassadors may have about the program, such as benefits, requirements, levels, badges, etc. She can also provide links to relevant resources, such as the Student Ambassador Handbook, the Learn platform, the GitHub repository, etc.
+## Demo
+
+
+**Normal Queries Amy can answer most of the common questions that Student Ambassadors may have about the program, such as benefits, requirements, levels, badges, etc. She can also provide links to relevant resources, such as the Student Ambassador Handbook, the Learn platform, the GitHub repository, etc**
 
 ![WhatsApp Image 2023-11-19 at 23 16 12](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/199c405e-def8-4e83-a120-4ce7f4f160cf)
 ![WhatsApp Image 2023-11-19 at 23 16 12 (1)](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/3b8c48b8-ac1f-463c-8b85-015f93082e8b)
@@ -56,17 +59,17 @@ https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateI
 ![WhatsApp Image 2023-11-19 at 23 16 13](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/24fd7a28-ed06-4f4f-8acc-6b7031a63cac)
 ![WhatsApp Image 2023-11-19 at 23 17 11](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/a2ca7939-20f9-4e7f-a717-d00ce7dd8226)
   
-## Escalation to Mail Sometimes, Student Ambassadors may need to contact the SA-Coordinator or the SA-Help team for more specific or urgent issues. Amy can facilitate this by sending an email to the appropriate recipient on behalf of the user. She can also ask for the user’s consent and confirmation before sending the email.
+**Escalation to Mail Sometimes, Student Ambassadors may need to contact the SA-Coordinator or the SA-Help team for more specific or urgent issues. Amy can facilitate this by sending an email to the appropriate recipient on behalf of the user. She can also ask for the user’s consent and confirmation before sending the email**
 
 ![WhatsApp Image 2023-11-19 at 23 54 49](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/c4c7dcc3-8ed9-4bfb-9370-47fa4d3fa280)
 
-## Escalation within Teams Another way to escalate an issue is to use the Teams channel, where Student Ambassadors can interact with each other and the program team. 
-Amy can directly message your issue to the SA Coordinator or SA Help within Teams. She will ask for the user’s consent and confirmation before sending the message.
+**Escalation within Teams Another way to escalate an issue is to use the Teams channel, where Student Ambassadors can interact with each other and the program team. 
+Amy can directly message your issue to the SA Coordinator or SA Help within Teams. She will ask for the user’s consent and confirmation before sending the message**
 
 ![WhatsApp Image 2023-11-19 at 23 55 10](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/5a25bd46-ac0a-4653-974d-d63aa4249885)
 ![WhatsApp Image 2023-11-19 at 23 58 02](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/76f185a5-1913-4b97-870b-4a250e99a9bb)
 
-## Searching for Forms Student Ambassadors may need to fill out various forms for different purposes, such as event submission, incentive request, feedback, etc. 
+**Searching for Forms Student Ambassadors may need to fill out various forms for different purposes, such as event submission, incentive request, feedback, etc**
 Amy can help the user find the right form and provide the link to it. She can also explain the purpose and the process of filling out the form.
 
 ![WhatsApp Image 2023-11-20 at 00 06 45](https://github.com/Team-Catalyst-MLSA/amy_bot/assets/115161334/6665c2aa-8020-4467-a19f-66ad6c5fcb6a)
