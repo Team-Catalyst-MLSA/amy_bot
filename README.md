@@ -42,11 +42,11 @@ Powered by Chat GPT-4, Amy is not just any bot; she's been meticulously trained 
 Demo To demonstrate Amy’s capabilities, we have prepared some screenshots of her responses to different types of queries. You can see how Amy handles normal 
 queries, escalation to mail, escalation within teams, and searching for forms.
 
-### Access link 
+## Access link 
 
 https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateInstanceId=e79e25f1-8ec1-4d3b-8c16-4651b6b00340&environment=Default-84c31ca0-ac3b-4eae-ad11-519d80233e6f
 
-** Note: pls mail Sreya.EP@studentambassadors.com for access , as the the access to public is restricted due to a lack of az credits as the both quicly uses all the credits available make it more formal.
+**Access to the bot can be granted by sending an email to the following address:** Sreya.EP@studentambassadors.com 
 
 ## Demo
 
