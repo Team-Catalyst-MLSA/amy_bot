@@ -49,7 +49,8 @@ https://teams.microsoft.com/l/app/f6405520-7907-4464-8f6e-9889e2fb7d8f?templateI
 **Access to the bot can be granted by sending an email to the following address:** Sreya.EP@studentambassadors.com 
 
 ## Demo
-
+*Video*: 
+https://youtu.be/5IfgG-7CN4w?feature=shared
 
 - **Normal Queries Amy can answer most of the common questions that Student Ambassadors may have about the program, such as benefits, requirements, levels, badges, etc. She can also provide links to relevant resources, such as the Student Ambassador Handbook, the Learn platform, the GitHub repository, etc**
 
